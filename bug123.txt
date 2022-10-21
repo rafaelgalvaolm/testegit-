@@ -1,2 +1,2 @@
 bug
-blah á
+blah 
