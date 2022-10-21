@@ -1,2 +1,7 @@
 bug
+<<<<<<< HEAD
 blah á
+=======
+blah
+teste
+>>>>>>> branch-teste
